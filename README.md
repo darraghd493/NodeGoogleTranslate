@@ -25,3 +25,7 @@ translate("Hello world", "en", "fr").then(response => {
     console.log(error);
 });
 ```
+
+## Dependancies
+NodeGoogleTranslate uses only a single dependancy, `axios`. This is used for making the request to Google's API.
+
