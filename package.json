@@ -23,5 +23,8 @@
   "homepage": "https://github.com/dogesupremacy/NodeGoogleTranslate#readme",
   "dependencies": {
     "axios": "^0.27.2"
+  },
+  "engines": {
+    "node": ">= 9.0.0"
   }
 }
