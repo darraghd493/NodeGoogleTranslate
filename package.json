@@ -1,6 +1,6 @@
 {
   "name": "nodegoogletranslate",
-  "version": "1.0.0",
+  "version": "1.0.0-release1",
   "description": "A Node.js module which communicates with the Google Translate API automatically for you.",
   "main": "index.js",
   "scripts": {
