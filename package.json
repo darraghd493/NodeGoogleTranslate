@@ -1,0 +1,27 @@
+{
+  "name": "nodegoogletranslate",
+  "version": "1.0.0",
+  "description": "A Node.js module which communicates with the Google Translate API automatically for you.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dogesupremacy/NodeGoogleTranslate.git"
+  },
+  "keywords": [
+    "google",
+    "translate",
+    "api"
+  ],
+  "author": "doge2018",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/dogesupremacy/NodeGoogleTranslate/issues"
+  },
+  "homepage": "https://github.com/dogesupremacy/NodeGoogleTranslate#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
